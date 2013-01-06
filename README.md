@@ -6,7 +6,9 @@ Javascript plugin to load css dynamicaly.
 How to use:
 
 &lt;script&gt;
-  stylesheet("../css/font-awesome.min.css");
+
+  stylesheet("path/to/file.css");
+
 &lt;/script&gt;
 
 List of updates:
